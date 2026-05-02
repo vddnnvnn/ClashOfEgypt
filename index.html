@@ -7,7 +7,8 @@
 <meta name="keywords" content="gaming, esports, Egypt, New Capital, tournaments, VR, gaming lounge"/>
 <meta property="og:title" content="Clash of Egypt — Enter the Game. Be the Champion."/>
 <meta property="og:description" content="Egypt's premier gaming arena. Book a session, compete in tournaments, or experience VR."/>
-<title>Clash of Egypt — Enter the Game. Be the Champion.</title>
+<title>Clash of Egypt</title>
+<link rel="icon" href="Logo.jpeg" type="image/jpeg"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;900&family=Rajdhani:wght@300;400;500;600;700&family=Cairo:wght@400;600;700&display=swap" rel="stylesheet"/>
@@ -865,6 +866,109 @@ input,textarea,select{font-family:inherit;}
 @media(max-width:600px){
   .hero-btns .btn{width:100%;}
   .hero-stats{gap:24px;}
+  .modal-header{padding:20px 20px 0;}
+  .modal-body{padding:20px;}
+  .tourn-banner .tourn-left{padding:28px 20px;}
+  .section-title{font-size:clamp(1.4rem,7vw,2.4rem);}
+}
+
+/* ════════════════════════════════════════
+   MOBILE — 480px and below
+════════════════════════════════════════ */
+@media(max-width:480px){
+  /* Nav */
+  .logo-name{font-size:.82rem;}
+
+  /* Hero */
+  .hero{padding-top:68px;padding-bottom:0;min-height:100svh;
+    flex-direction:column;justify-content:center;gap:0;}
+  .hero-content{padding:0 16px;padding-bottom:100px;}
+  .hero-title{font-size:clamp(2.4rem,16vw,4rem);}
+  .hero-sub{font-size:.8rem;letter-spacing:.15em;margin-bottom:32px;}
+  .hero-badge{font-size:.62rem;padding:6px 14px;}
+  .hero-btns{flex-direction:column;align-items:stretch;gap:12px;}
+  .hero-stats{
+    bottom:20px;gap:16px 28px;width:90%;
+  }
+  .hero-scroll{display:none;}
+  .stat-num{font-size:1.3rem;}
+  .stat-lbl{font-size:.58rem;}
+
+  /* Sections */
+  .section{padding:40px 16px;}
+  .section-header{margin-bottom:28px;}
+
+  /* Feature cards */
+  .features-grid{grid-template-columns:1fr;}
+  .feat-card{padding:24px 20px;}
+
+  /* Services preview */
+  .services-grid{grid-template-columns:1fr;}
+  .svc-card{aspect-ratio:16/9;}
+
+  /* Tournament banner */
+  .tourn-banner{border-radius:12px;}
+  .tourn-right{min-height:160px;}
+  .trophy{font-size:4rem;}
+  .tourn-title{font-size:clamp(1.5rem,7vw,2.2rem);}
+
+  /* Tournament cards */
+  .tourn-card{padding:20px 16px;gap:16px;}
+  .tourn-meta{gap:10px;}
+  .tourn-meta-item{font-size:.78rem;}
+
+  /* Location */
+  .map-wrap{aspect-ratio:4/3;}
+  .loc-item{gap:10px;}
+
+  /* Booking */
+  .booking-sidebar{position:relative;top:auto;}
+  .form-card{padding:20px 16px;}
+  .info-card{padding:20px 16px;}
+
+  /* About */
+  .about-visual{aspect-ratio:auto;min-height:200px;padding:24px;}
+  .about-stat-grid{grid-template-columns:1fr 1fr;gap:12px;}
+  .about-stat{padding:16px 12px;}
+  .timeline-item{grid-template-columns:60px 1fr;gap:12px;}
+  .timeline-item:not(:last-child)::before{left:29px;}
+  .timeline-dot{left:25px;}
+
+  /* Services page */
+  .service-visual{aspect-ratio:4/3;min-height:180px;}
+  .service-row{gap:20px;}
+
+  /* Contact */
+  .contact-card{padding:16px 14px;gap:12px;}
+
+  /* Footer */
+  .footer{padding:40px 0 20px;}
+  .footer-bottom{flex-direction:column;align-items:flex-start;gap:8px;}
+  .social-links{gap:8px;}
+
+  /* Buttons */
+  .btn-lg{padding:14px 28px;font-size:.9rem;}
+  .btn{padding:12px 24px;font-size:.88rem;}
+
+  /* Modals */
+  .modal{border-radius:12px;}
+
+  /* Rules grid */
+  .rules-grid{grid-template-columns:1fr;}
+
+  /* Page hero */
+  .page-hero-title{font-size:clamp(1.8rem,9vw,3rem);}
+}
+
+/* ════════════════════════════════════════
+   MOBILE — 360px and below (very small)
+════════════════════════════════════════ */
+@media(max-width:360px){
+  .hero-title{font-size:2.2rem;}
+  .logo-name{font-size:.72rem;}
+  .logo-sub{display:none;}
+  .hero-stats{gap:16px 24px;}
+  .about-stat-grid{grid-template-columns:1fr;}
 }
 
 /* Ultra-wide */
