@@ -1,217 +1,213 @@
-🎮 Clash of Egypt
+# 🎮 Clash of Egypt
 
-Egypt’s Premier Gaming & Esports ArenaEnter the Game. Be the Champion.
+<div align="center">
 
-🚀 Overview
+![Clash of Egypt](Logo.jpeg)
 
-Clash of Egypt is a futuristic gaming & esports arena website designed to deliver a premium digital experience inspired by competitive gaming culture, cyberpunk aesthetics, and next-generation entertainment.
+### ⚡ Egypt’s Premier Gaming & Esports Arena ⚡
+
+**Enter the Game. Be the Champion.**
+
+</div>
+
+---
+
+## 🚀 Overview
+
+**Clash of Egypt** is a futuristic gaming & esports arena website designed to deliver a premium digital experience inspired by competitive gaming culture, cyberpunk aesthetics, and next-generation entertainment.
 
 The project features a fully responsive single-page experience with:
 
-⚡ Smooth animations
+- ⚡ Smooth animations
+- 🎮 Gaming-focused UI/UX
+- 🥽 VR & esports sections
+- 🏆 Tournament showcase
+- 📱 Mobile-first responsiveness
+- 🌌 Immersive neon cyberpunk design
 
-🎮 Gaming-focused UI/UX
+Built using pure **HTML, CSS, and JavaScript** without frameworks for maximum performance and flexibility.
 
-🥽 VR & esports sections
+---
 
-🏆 Tournament showcase
+# ✨ Features
 
-📱 Mobile-first responsiveness
+## 🎨 Modern UI/UX
 
-🌌 Immersive neon cyberpunk design
+- Cyberpunk inspired design
+- Neon glow effects
+- Interactive hover animations
+- Smooth page transitions
+- Glassmorphism cards
+- Responsive layouts
 
-Built using pure HTML, CSS, and JavaScript without frameworks for maximum performance and flexibility.
+---
 
-✨ Features
+## 📱 Fully Responsive
 
-🎨 Modern UI/UX
+- Mobile optimized
+- Tablet friendly
+- Ultra-wide screen support
+- Adaptive typography
+- Responsive navigation menu
 
-Cyberpunk inspired design
+---
 
-Neon glow effects
+## 🎮 Gaming Experience
 
-Interactive hover animations
+- Hero landing section
+- Tournament showcase
+- Gaming services pages
+- VR experience section
+- Interactive gallery
+- Booking system UI
 
-Smooth page transitions
+---
 
-Glassmorphism cards
+## ⚙️ Technical Features
 
-Responsive layouts
+- SPA-like navigation
+- Custom animations
+- Dynamic modals
+- Smooth scrolling
+- Interactive particles background
+- Performance optimized
 
-📱 Fully Responsive
+---
 
-Mobile optimized
+# 🛠️ Tech Stack
 
-Tablet friendly
+<p align="center">
 
-Ultra-wide screen support
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-Adaptive typography
+</p>
 
-Responsive navigation menu
+| Technology | Usage |
+|------------|--------|
+| HTML5 | Structure |
+| CSS3 | Styling & Animations |
+| JavaScript | Interactivity |
+| Google Fonts | Typography |
+| Responsive Design | Mobile Compatibility |
 
-🎮 Gaming Experience
+---
 
-Hero landing section
+# 📂 Project Structure
 
-Tournament showcase
-
-Gaming services pages
-
-VR experience section
-
-Interactive gallery
-
-Booking system UI
-
-⚙️ Technical Features
-
-SPA-like navigation
-
-Custom animations
-
-Dynamic modals
-
-Smooth scrolling
-
-Interactive particles background
-
-Performance optimized
-
-🛠️ Tech Stack
-
-Technology
-
-Usage
-
-HTML5
-
-Structure
-
-CSS3
-
-Styling & Animations
-
-JavaScript
-
-Interactivity
-
-Google Fonts
-
-Typography
-
-Responsive Design
-
-Mobile Compatibility
-
-📂 Project Structure
-
+```bash
 Clash-Of-Egypt/
 │
 ├── index.html
 ├── Logo.jpeg
 ├── Background Pic.jpeg
 └── README.md
+```
 
-🌟 Sections Included
+---
 
-🏠 Home
+# 🌟 Website Sections
 
-⚡ About
+- 🏠 Home
+- ⚡ About
+- 🎮 Services
+- 🏆 Tournaments
+- 🖼️ Gallery
+- 📍 Contact
+- 📅 Booking Modal
 
-🎮 Services
+---
 
-🏆 Tournaments
+# 💡 Design Highlights
 
-🖼️ Gallery
+## 🎨 Color Palette
 
-📍 Contact
+| Color | Hex |
+|-------|------|
+| Electric Blue | `#00D4FF` |
+| Neon Purple | `#8B5CF6` |
+| Cyber Violet | `#C026D3` |
+| Dark Navy | `#03040D` |
 
-📅 Booking Modal
+---
 
-💡 Design Highlights
+## ✨ Effects Used
 
-🎨 Color Palette
+- Neon glows
+- Animated particles
+- Floating orbs
+- Hover transitions
+- Blur glass effects
+- Scroll reveal animations
 
-Electric Blue
+---
 
-Neon Purple
+# ⚡ Getting Started
 
-Cyber Violet
+## 1️⃣ Clone the Repository
 
-Dark Navy Backgrounds
-
-✨ Effects
-
-Neon glows
-
-Animated particles
-
-Floating orbs
-
-Hover transitions
-
-Blur glass effects
-
-Scroll reveal animations
-
-⚡ Getting Started
-
-1️⃣ Clone the Repository
-
+```bash
 git clone https://github.com/yourusername/clash-of-egypt.git
+```
 
-2️⃣ Open the Project
+---
+
+## 2️⃣ Open the Project
 
 Simply open:
 
+```bash
 index.html
+```
 
 in your browser.
 
-🔥 Future Improvements
+---
 
-Backend integration
+# 🔥 Future Improvements
 
-Real booking system
+- Backend integration
+- Real booking system
+- Authentication system
+- Live tournaments API
+- Payment gateway
+- Real-time leaderboard
+- Multi-language support
+- Admin dashboard
 
-Authentication system
+---
 
-Live tournaments API
+# 👨‍💻 Author
 
-Payment gateway
-
-Real-time leaderboard
-
-Multi-language support
-
-Admin dashboard
-
-👨‍💻 Author
-
-Developed by Mohamed Adnan
+## Mohamed Adnan
 
 Passionate about:
 
-Gaming Experiences
+- 🎮 Gaming Experiences
+- 🎨 UI/UX Design
+- 💻 Frontend Development
+- 🏆 Esports Platforms
+- 🚗 Automotive Tech & AI
 
-UI/UX Design
+---
 
-Frontend Development
-
-Esports Platforms
-
-Automotive Tech & AI
-
-🏆 Vision
+# 🏆 Vision
 
 Clash of Egypt aims to become the ultimate esports and gaming destination in Egypt’s New Administrative Capital — combining competitive gaming, immersive experiences, and futuristic entertainment into one iconic digital brand.
 
-📜 License
+---
+
+# 📜 License
 
 This project is licensed for personal and educational use.
 
-⚡ CLASH OF EGYPT ⚡
+---
 
-Enter the Game. Be the Champion.
+<div align="center">
 
+## ⚡ CLASH OF EGYPT ⚡
+
+### *Enter the Game. Be the Champion.*
+
+⭐ Don't forget to star the repository!
+
+</div>
